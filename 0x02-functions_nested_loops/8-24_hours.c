@@ -18,4 +18,5 @@ void jack_bauer(void)
 			_putchar((min % 10) + 48);
 			_putchar('\n');
 		}
+	}
 }
