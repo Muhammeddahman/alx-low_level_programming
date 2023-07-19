@@ -30,6 +30,7 @@ int numlLenght(int num)
  * Return: Always 0 (Success)
  */
 int main(void)
+{
 	int count, initial0s;
 	unsigned long f1 = 1, f2 = 2, sum, mx = 100000000, f1o = 0, f20 = 0, sumo = 0;
 
