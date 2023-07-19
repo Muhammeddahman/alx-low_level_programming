@@ -38,7 +38,7 @@ int main(void)
 	{
 		if (f1o > 0)
 			printf("%lu", f1o);
-		initial0s = num1Lenght(mx) - 1 - numlLenght(f1);
+		initial0s = numlLenght(mx) - 1 - numlLenght(f1);
 
 		while (f1o > 0 && initial0s > 0)
 		{
