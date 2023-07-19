@@ -9,7 +9,7 @@
  */
 int numlLenght(int num)
 {
-	int lenght - 0;
+	int lenght = 0;
 
 	if (num)
 		return (1);
@@ -19,7 +19,6 @@ int numlLenght(int num)
 		lenght += 1;
 	}
 	return (lenght);
-	}
 }
 
 /**
