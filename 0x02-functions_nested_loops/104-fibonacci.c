@@ -11,7 +11,7 @@ int numlLenght(int num)
 {
 	int lenght = 0;
 
-	if (num)
+	if (!num)
 		return (1);
 	while (num)
 	{
