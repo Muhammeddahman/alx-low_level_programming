@@ -13,11 +13,11 @@ void print_line(int n)
 	int lnChr;
 
 	if (num <= 0)
-		_putchar('\n');
+		_putChar('\n');
 	else
 	{
 		for (lnChr = 1; lnChr <= n; lnChr++)
-			_putchar('_');
+			_putChar('_');
 		_putchar('\n');
 
 	}
